@@ -1,0 +1,34 @@
+sunplant,food
+grass,food
+leaf, food
+poision ivy,poision
+cherry,food
+clementine,food
+date,food
+elderberry,food
+fennel,food
+fig,food
+garlic root,food
+raw almond,poision
+fruit of asparagus,poison
+grape,food
+green bean,food
+cucumber,food
+sugar apple,food
+lemon,food
+corn,food
+baby's breath,poison
+banana,food
+beetroot,food
+beans,food
+raw almond,poision
+white lily,food
+broccoli,food
+butternut squash,food
+carrot,food
+amaryllis,food
+bellflower,food
+apple,food
+apricot,food
+aubergine,food
+avocado,food

@@ -1,0 +1,17 @@
+ostrich,bird,herbivore,200,1,nothing
+goat,meat,herbivore,98,1,nothing
+sloth,meat,herbivore,44,1,nothing
+kangaroo,meat,herbivore,188,1,nothing
+wombat,meat,herbivore,98,1,nothing
+lama,meat,herbivore,150,1,nothing
+rabbit,meat,herbivore,40,1,nothing
+turtle,meat,herbivore,40,1,nothing
+zebra,meat,herbivore,250,1,nothing
+flamingo,bird,herbivore,150,1,nothing
+eagle,bird,herbivore,20,1,nothing
+mockingjay,bird,herbivore,20,1,nothing
+black bird, meat,herbivore,40,1,nothing
+lion,meat,carnivore,140,1,bird
+snake,meat,carnivore, 200,1,bird
+walking shark,meat,carnivore,300,1,nothing
+killer penguin,bird,carnivore,40,1,nothing,

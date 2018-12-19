@@ -1,2 +1,6 @@
 # evolutionsimulation
-A simulation of the evolutionary natural selection
+A simulation game of the evolutionary natural selection.
+
+```shell
+python3 main.py 
+```
