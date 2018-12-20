@@ -1,7 +1,7 @@
 # evolutionsimulation
 A simulation game of the evolutionary natural selection.
 
-It's made in python and all animals in the simulation uses inheritance from the class Python.
+It's made in python and all animals in the simulation uses inheritance from the class Animal.
 
 ## To run
 ```shell
